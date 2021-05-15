@@ -1,2 +1,3 @@
 # hello-world
 My first repository ...
+I am happy for your determination
